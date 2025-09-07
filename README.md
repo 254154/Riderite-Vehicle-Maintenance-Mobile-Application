@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# DriveWise
+# RideRite
 
 ## Overview
-DriveWise is a mobile application built with Flutter that helps users manage their vehicles, track maintenance, monitor driving behavior, and provide helpful vehicle-related services.
+RideRite is a mobile application built with Flutter that helps users manage their vehicles, track maintenance, monitor driving behavior, and provide helpful vehicle-related services.
 
 ## Features
 - Vehicle management and registration
@@ -18,7 +18,7 @@ DriveWise is a mobile application built with Flutter that helps users manage the
 
 ## Project Structure
 ```
-DriveWise/
+RideRite/
 ├── .dart_tool
 ├── .idea
 ├── android/            # Android platform-specific code
@@ -65,72 +65,3 @@ DriveWise/
 - Android Studio or VS Code with Flutter extensions
 - iOS development tools (for iOS deployment)
 
-### Installation
-1. Clone the repository:
-   
-   git clone https://github.com/chaniruM/DriveWise.git
-   
-
-2. Navigate to the project directory:
-   
-   cd drivewise
-   
-
-3. Install dependencies:
-   
-   flutter pub get
-   
-
-4. Run the application:
-   
-   flutter run
-   
-
-### Configuration
-- Update the API endpoints in lib/services/api_service.dart to match your backend configuration
-- Configure Firebase services if used for authentication or analytics
-
-## Development
-
-### Architecture
-The application follows a layered architecture:
-- UI Layer: Pages and Widgets
-- Business Logic: Services and Providers
-- Data Layer: Models and API Services
-
-### Key Components
-- *Models*: Define data structures for vehicles and user information
-- *Pages*: UI screens for different app features
-- *Services*: Handle API communication and business logic
-- *Providers*: Manage application state and theme
-
-## Contributing
-1. Fork the repository
-2. Create a feature branch (git checkout -b feature/amazing-feature)
-3. Commit your changes (git commit -m 'Add some amazing feature')
-4. Push to the branch (git push origin feature/amazing-feature)
-5. Open a Pull Request
-
-## License
-[Include appropriate license information here]
-
-# Contact
-
-## Official Channels
-- *Website*: [www.drivewiselk.com](https://www.drivewiselk.com/)
-- *Email*: [drivewise.care@gmail.com]
-
-## Social Media
-- *Instagram*: [@_drivewise_](https://www.instagram.com/__drivewise__)
-- *Facebook*: [DriveWise](https://www.facebook.com/share/162b7jrFa2/?mibextid=wwXIfr)
-- *LinkedIn*: [DriveWise LK](https://www.linkedin.com/company/drivewise-lk)
-
-## GitHub Repository
-Project Link: [https://github.com/dula089/DriveWise_Backend_NodeJs.git](https://github.com/dula089/DriveWise_Backend_NodeJs.git)
-
-## Feedback
-Users can provide feedback through our application or via any of the contact channels listed above.
-=======
-# Riderite-Vehicle-Maintenance-Mobile-Application
-**RideRite is your all-in-one vehicle maintenance assistant. It simplifies car care by sending you automated service reminders, recommending compatible parts, and comparing prices from local retailers. Never miss an oil change, forget a renewal, or overpay for auto supplies again.**
->>>>>>> 1d3ec7d07764ff77178a01f302b1e6f4c0b85813
