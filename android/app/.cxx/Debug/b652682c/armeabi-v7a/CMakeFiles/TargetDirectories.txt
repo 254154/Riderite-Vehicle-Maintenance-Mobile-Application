@@ -1,0 +1,2 @@
+D:/bbb/DriveWise-dulani1/DriveWise-dulani1/android/app/.cxx/Debug/b652682c/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/bbb/DriveWise-dulani1/DriveWise-dulani1/android/app/.cxx/Debug/b652682c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
