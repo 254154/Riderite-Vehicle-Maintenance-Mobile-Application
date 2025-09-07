@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DriveWise
 
 ## Overview
@@ -129,3 +130,7 @@ Project Link: [https://github.com/dula089/DriveWise_Backend_NodeJs.git](https://
 
 ## Feedback
 Users can provide feedback through our application or via any of the contact channels listed above.
+=======
+# Riderite-Vehicle-Maintenance-Mobile-Application
+**RideRite is your all-in-one vehicle maintenance assistant. It simplifies car care by sending you automated service reminders, recommending compatible parts, and comparing prices from local retailers. Never miss an oil change, forget a renewal, or overpay for auto supplies again.**
+>>>>>>> 1d3ec7d07764ff77178a01f302b1e6f4c0b85813
